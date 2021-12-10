@@ -1,5 +1,5 @@
 # Telebroom - Node.js Server
-Telebroom is a project of a messenger applications infrastructure that at the moment consists of [iOS client](https://github.com/vkozikov91/Telebroom-iOS) and [Node.js](https://github.com/vkozikov91/Telebroom-Server) server. It's not a rigid product ready for mass deployment, because originally it was a playground to test how different frameworks and architectures play all together. However it has gradually grown into relatively 'fully fledged' project.
+Telebroom is a project of a messenger applications infrastructure that at the moment consists of [iOS client](https://github.com/varhaolek/telebroom-chat-app) and [Node.js] (https://github.com/varhaolek/telebroom-chat-app-server)server. It's not a rigid product ready for mass deployment, because originally it was a playground to test how different frameworks and architectures play all together. However it has gradually grown into relatively 'fully fledged' project.
 
 The following features are bestowed upon Telebroom users:
 - **Sign up, login** - authorize with username and password;
